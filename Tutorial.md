@@ -1,18 +1,20 @@
 ### ---服务器相关网址---
-  <a href="https://wiki.earthmc.net">✔EMC wiki</a>
+<div align="center">
+  <a href="https://wiki.earthmc.net">✨EMC wiki</a>
   <br>
-  <a href="https://discord.com/invite/TFVYpWQ">✔服务器官方discord</a>
+  <a href="https://discord.com/invite/TFVYpWQ">✨服务器官方discord</a>
   <br>
-  <a target="_blank" rel="noreferrer" href="https://earthmc.net/map/nova/" data-no-instant>✔Nova-地图</a>
+  <a target="_blank" rel="noreferrer" href="https://earthmc.net/map/nova/" data-no-instant>✨Nova-地图</a>
   <br>
-  <a target="_blank" rel="noreferrer" href="https://earthmc.net/map/aurora/" data-no-instant>✔Aurora-地图</a>
+  <a target="_blank" rel="noreferrer" href="https://earthmc.net/map/aurora/" data-no-instant>✨Aurora-地图</a>
   <br>
-  <a href="https://store.earthmc.net/category/premium">✔购买Premium</a>
+  <a href="https://store.earthmc.net/category/premium">✨购买Premium</a>
   <br>
-  <a href="https://earthmc.net/docs/rules">✔服务器规则</a>
+  <a href="https://earthmc.net/docs/rules">✨服务器规则</a>
   <br>
-  <a href="https://earthmc.net/docs">✔服务器官方文档</a>
- 
+  <a href="https://earthmc.net/docs">✨服务器官方文档</a>
+</div>
+
 ### ---服务器货币---
 #### ①金锭
   - 金锭作为服务器的指定货币，较难获取。服务器中1个金锭⭐可购买10个钻石块💎。
@@ -55,8 +57,10 @@
      - 建城需要与相邻城镇间隔3个区块及以上，不允许使用扩展臂阻拦其他城镇。
      - 不允许一些恶劣行径：如辱骂他人，持续在公屏垃圾消息轰炸等。
   - 更多规则请看：<a href="https://earthmc.net/docs/rules">🎐服务器规则</a>
+
 ### ---常见指令---
 #### Towny相关指令
+<div align="center">
   <details>
     <summary>/t new 城镇名</summary>
     <br>使用背包中的64G建立城镇。
@@ -67,3 +71,4 @@
     <summary>/t 城镇名</summary>
     <br>查看城镇详细信息。
   </details>
+</div>
