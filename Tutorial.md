@@ -122,7 +122,6 @@
       <br>随后可通过/home传输到自己床旁。
     </details>
   </details>
-  <br>
   <details>
     <summary>城镇/t类</summary>
     <br><details>
