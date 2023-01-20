@@ -70,7 +70,7 @@
     <br>当vote次数每达到5000，服务器将会发放giant Gold crate。
     <br>giant Gold crate内只含有金子，最低为10G，最高为100G。
   </details>
-  <br><details>
+  <details>
     <summary>切换聊天频道指令</summary>
     <br>/tc 城镇聊天
     <br>/nc 国家聊天
@@ -79,22 +79,22 @@
     <br>/p party频道
     <br>/tradechat 交易频道
   </details>
-  <br><details>
+  <details>
     <summary>私聊指令</summary>
     <br>/m [玩家A] 与玩家A私聊，离线无法私聊。
     <br>/mail send [玩家A] 给玩家A发邮件，离线也可收到。
     <br>/mail read [页数] 读取自己的邮箱。
   </details>
-  <br><details>
+  <details>
     <summary>经验瓶</summary>
     <br>/bottle get [max/数量] 获取普通‘附魔之瓶’，max:把身上所有经验都装进瓶子，数量：获取指定数量个瓶子。
     <br>/bottle store [max/经验值] 将身上指定的经验值装入瓶子，max:所有经验值。
   </details>
-  <br><details>
+  <details>
     <summary>vote crate插件</summary>
     <br>/cr claim 领取未正常发送到背包的金箱子。
   </details>
-  <br><details>
+  <details>
     <summary>MCMMO技能插件</summary>
     <br>/stats 查看自己的所有技能等级情况。
     <br>/mcrank 查看自己的所有技能全服排名情况。
@@ -106,7 +106,7 @@
 #### Towny相关指令
 <div align="center">
   <details>
-    <summary>传送类</summary>
+    <summary><b>传送类</b></summary>
     <br><details>
       <summary>/t spawn</summary>
       <br>传送回自己的城镇传送点，城镇之间的传送是不允许的。
@@ -123,7 +123,7 @@
     </details>
   </details>
   <details>
-    <summary>城镇/t类</summary>
+    <summary><b>城镇/t类</b></summary>
     <br><details>
       <summary>/t new [城镇名]</summary>
       <br>使用背包中的64G建立城镇。
@@ -207,7 +207,7 @@
     </details>
   </details>
   <details>
-    <summary>区块/plot类</summary>
+    <summary><b>区块/plot类</b></summary>
     <br><details>
       <summary>/plot perm hud</summary>
       <br>打开区块权限板，可以看到每种权限后可能跟随着frtnao。
